@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratham Prabhakar
+- 👋 Hi, I’m Pratham Prabhakar | @firstprthm
 - 👀 I’m interested in drawing, story writing, cooking, computer science
 - 🌱 I’m currently learning c language and Anroid App development
 - 😄 Pronouns: he/him
