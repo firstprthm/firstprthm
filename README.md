@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pratham Prabhakar | FirstPrthm
-- 👀 I’m interested in drawing, story writing, cooking, computer science
-- 🌱 I’m currently learning c language and Anroid App development
+- 👋 Hi, I’m PRATHAM PRABHAKAR a.k.a FIRSTPRTHM
+- 👀 I’m interested in DRAWING, WRITING, COOKING, COMPUTER WIZARDRY & TECHNOLOGY
+- 🌱 I’m currently learning C PROGRAMMING language and ANDROID APP development with ANDROID STUDIO
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: STRESSED spelled backward is DESSERTS
 
