@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning WEB-DEVELOPMENT
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: STRESSED spelled backward is DESSERTS
-- 🧑‍💻 My Projects: <a href="https://github.com/firstprthm/MyResume">My Resume App (android app)</a>, <a href="nittecampus.pages.dev">Nitte Campus Map (website)</a>, <a href="https://scratch.mit.edu/projects/1147915240">Super-Cat  Nyan-Chan (game in scratch)</a>
+- 🧑‍💻 My Projects: <a href="MyResume">My Resume App (android app)</a>, <a href="https://nittecampus.pages.dev">Nitte Campus Map (website)</a>, <a href="https://scratch.mit.edu/projects/1147915240">Super-Cat  Nyan-Chan (game in scratch)</a>
 - 📚 Tech-stack: scratch, html, css, javascript, php, sql, c, c++, matlab, python, kotlin, jetpack compose
