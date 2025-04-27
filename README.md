@@ -2,7 +2,7 @@
 
 <!--**firstprthm/firstprthm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 👋 Hi, I’m PRATHAM PRABHAKAR
+- 👋 Hi, I’m PRATHAM PRABHAKAR | (@firstprthm)
 - 👀 I’m interested in DRAWING, WRITING, PROGRAMMING, COMPUTER WIZARDRY & TECHNOLOGY
 - 🔭 I'm currently working on a CAMPUS COMMUNITY APP and a DORAEMON FAN-FIC
 - 🌱 I’m currently learning WEB-DEVELOPMENT
