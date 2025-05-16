@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: STRESSED spelled backward is DESSERTS
 - 🧑‍💻 My Projects: <a href="https://github.com/firstprthm/MyResume">MY RESUME APP (android app)</a>, <a href="https://nittecampus.pages.dev">NITTE CAMPUS MAP (website)</a>, <a href="https://scratch.mit.edu/projects/1147915240">SUPER CAT NYAN-CHAN (game in scratch)</a>
-- 📚 Tech-stack: scratch, html, css, javascript, php, sql, c, c++, matlab, python, kotlin - jetpack compose, arduino, node.js
+- 📚 Tech-stack: scratch, html, css, javascript, php, mysql, c, c++, matlab, python, kotlin - jetpack compose, arduino
