@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m PRATHAM PRABHAKAR
 - 👀 I’m interested in DRAWING, WRITING, PROGRAMMING, ENTREPRENEURSHIP, EXPLORING COMPUTER TECH
-- 🔭 I'm currently working on Infrst
+- 🔭 I'm currently working on <a href="https://infrst.netlify.app/">Infrst</a> - a platform where anyone, from individuals to organizations can share their verified digital contacts.
 - 🌱 I’m currently learning WEB-DEVELOPMENT
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: STRESSED spelled backward is DESSERTS
