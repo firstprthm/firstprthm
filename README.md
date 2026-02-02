@@ -3,11 +3,11 @@
 <!--**firstprthm/firstprthm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👋 Hi, I’m PRATHAM PRABHAKAR (@firstprthm)
-- 👀 I’m interested in DRAWING, WRITING, PROGRAMMING, ENTREPRENEURSHIP, EXPLORING COMPUTER TECH
+- 👀 I’m interested in DRAWING, WRITING, PROGRAMMING, EXPLORING COMPUTER TECH
 - 🔭 I'm currently working on <a href="https://infrst.netlify.app/">Infrst</a> - a platform to share & search verified digital contacts.
 - 🌱 I’m currently learning WEB-DEVELOPMENT
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: STRESSED spelled backward is DESSERTS
-- 🧑‍💻 My Projects: <a href="https://github.com/firstprthm/marketing-campaign-success-predictor">Marketing Campaign Success Predictor (ML model)</a>, <a href="https://nittecampus.pages.dev">NITTE CAMPUS MAP (website)</a>, <a href="https://scratch.mit.edu/projects/1147915240">SUPER CAT NYAN-CHAN (game in scratch)</a>
-- 📚 Tech-stack: Scratch, HTML, CSS, JavaScript, SQL, C, C++, MATLAB, Python, Kotlin, Jetpack Compose, Java, React
-- 🔨 Tools: Git, Supabase
+- 🧑‍💻 My Projects: <a href="https://github.com/firstprthm/marketing-campaign-success-predictor">Marketing Campaign Success Predictor (ML model)</a>
+- 📚 Tech-stack: HTML, CSS, JavaScript, SQL, C, Python, Java, React
+- 🔨 Tools: Git, MySQL, Supabase, Colab
