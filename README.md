@@ -3,7 +3,7 @@
 <!--**firstprthm/firstprthm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👋 Hi, I’m PRATHAM PRABHAKAR (@firstprthm)
-- 👀 I’m interested in DRAWING, WRITING, PROGRAMMING, EXPLORING COMPUTER TECH
+- 👀 I’m interested in DRAWING, WRITING, BUILDING SOFTWARE, EXPLORING COMPUTER TECH
 - 🔭 I'm currently working on <a href="https://infrst.netlify.app/">Infrst</a> - a platform to share & search verified digital contacts.
 - 🌱 I’m currently learning WEB-DEVELOPMENT
 - 😄 Pronouns: he/him
