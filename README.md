@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning WEB-DEVELOPMENT
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: STRESSED spelled backward is DESSERTS
-- 🧑‍💻 My Projects: <a href="https://github.com/firstprthm/marketing-campaign-success-predictor">Marketing Campaign Success Predictor (ML model)</a>
+<!-- - 🧑‍💻 My Projects:  -->
 - 📚 Tech-stack: HTML, CSS, JavaScript, SQL, C, Python, Java, React
 - 🔨 Tools: Git, MySQL, Supabase, Colab
