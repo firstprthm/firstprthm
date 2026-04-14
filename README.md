@@ -7,7 +7,6 @@
 - 🔭 I'm currently working on <a href="https://infrst.netlify.app/">Infrst</a> - a platform to share & search verified digital contacts.
 - 🌱 I’m currently learning WEB-DEVELOPMENT
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: STRESSED spelled backward is DESSERTS
-<!-- - 🧑‍💻 My Projects:  -->
+- ⚡ Fun fact: STRESSED spelled backward is DESSERTS <!-- - 🧑‍💻 My Projects:  -->
 - 📚 Tech-stack: HTML, CSS, JavaScript, SQL, C, Python, Java, React
 - 🔨 Tools: Git, MySQL, Supabase, Colab
